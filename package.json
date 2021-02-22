@@ -1,0 +1,29 @@
+{
+  "name": "Online_Offline_Budget_Tracker",
+  "version": "1.0.0",
+  "description": "Add functionality to our existing Budget Tracker application to allow for offline access and functionality.",
+  "main": "server.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.17",
+    "morgan": "^1.10.0",
+    "require-stack": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baello2020/Online_Offline_Budget_Trackers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baello2020/Online_Offline_Budget_Trackers/issues"
+  },
+  "homepage": "https://github.com/baello2020/Online_Offline_Budget_Trackers#readme"
+}
