@@ -1,3 +1,4 @@
+// Orlando Baello - Unit 18 PWA Homework: Online/Offline Budget Trackers 
 const STATIC_BUDGET = "static-budget-v1";
 const BUDGET_DATA = "data-budget-v1";
 const FILES_TO_CACHE = [
