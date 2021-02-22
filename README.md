@@ -25,7 +25,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ## Contributing
 A work in progress. And the possibilities are endless. <br> Please feel free to submit any code updates for review and acceptance.
-* ['Fitness Tracker - Github Repo'](https://github.com/baello2020/Online_Offline_Budget_Trackers)
+* ['Budget Tracker - Github Repo'](https://github.com/baello2020/Online_Offline_Budget_Trackers)
 
 ## Licence
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
