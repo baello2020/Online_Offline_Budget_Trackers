@@ -1,3 +1,4 @@
+// Orlando Baello - Unit 18 PWA Homework: Online/Offline Budget Trackers 
 let transactions = [];
 let myChart;
 
