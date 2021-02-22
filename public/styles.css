@@ -1,4 +1,15 @@
 body {
+  background: url("https://media.informabtl.com/wp-content/uploads/2017/11/fijacio%CC%81n-de-precios-e1514440367562.jpg");
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 85%;
+  }
+
+body {
   font-size: 120%;
   font-family: Arial;
 }
@@ -13,7 +24,7 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
   text-align: left;
   padding: 8px;
 }
@@ -32,6 +43,7 @@ tr:nth-child(even) {
   text-align: center;
 }
 
+
 .total {
   font-size: 150%;
   text-decoration: underline;
@@ -49,3 +61,4 @@ tr:nth-child(even) {
   width: 90%;
   margin: 0 auto;
 }
+
